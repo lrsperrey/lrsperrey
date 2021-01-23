@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm LaKeisha!
+
+I'm an aspiring Jr. Full Stack Developer living in Augusta, GA.   As a current Clubhou.se Bootcamp student, I'm looking to expand my portfolio and collaborate on something new.
+
+- 🌱 I’m currently learning Java, HTML, CSS, MySQL and Node.js
+
+- 🔭 I’m currently working on MSIT in Enterprise Networks and Cloud Computing
+
 
 <!--
 **lrsperrey/lrsperrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
