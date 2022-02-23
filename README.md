@@ -6,6 +6,8 @@ I'm an aspiring Full Stack Developer living in Augusta, GA.   As a current Clubh
 
 - 💻 I'm currently working on: on MSIT in Enterprise Networks and Cloud Computing
 
+- 🌱 I’m currently learning python
+
 
 <!--
 **lrsperrey/lrsperrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
